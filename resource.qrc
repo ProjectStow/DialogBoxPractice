@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Desktop/zObjectsLogo-01.svg</file>
+    </qresource>
+</RCC>
