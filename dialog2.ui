@@ -152,7 +152,10 @@ Documentation: Terry Wiechmann, Bruce Bradely, Erik Zoltan</string>
      <height>181</height>
     </rect>
    </property>
-   <layout class="QGridLayout" name="gridLayout">
+   <layout class="QGridLayout" name="gridLayout" columnstretch="0,2,1,1,0,2" columnminimumwidth="0,0,0,0,0,0">
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
     <item row="1" column="0">
      <widget class="QLabel" name="label_15">
       <property name="text">
